@@ -1,2 +1,4 @@
 # What is this project?
-This is an app that creates PDF invoices out of Excel files
+This app creates PDF invoices out of Excel files data
+This application is a requirement of the 
+"Udemy Python Megacourse - Ardit Sulce"
